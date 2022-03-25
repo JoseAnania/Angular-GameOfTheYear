@@ -1,0 +1,6 @@
+/* Estilos de la página de Gráficos */
+
+.chart-container {
+    display: grid;
+    height: 300px;
+}
